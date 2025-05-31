@@ -1,0 +1,22 @@
+{
+  "gather_presets": [
+    {
+      "type": "gather",
+      "amount_min": 16,
+      "amount_max": 32,
+      "coin_min": 24,
+      "coin_max": 64,
+      "items": ["minecraft:oak_log", "minecraft:birch_log"],
+      "tags": ["minecraft:planks", "forge:logs"]
+    },
+    {
+      "type": "gather",
+      "amount_min": 8,
+      "amount_max": 16,
+      "coin_min": 8,
+      "coin_max": 24,
+      "items": ["minecraft:iron_ingot"],
+      "tags": []
+    }
+  ]
+}

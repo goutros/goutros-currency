@@ -1,0 +1,12 @@
+{
+  "coin_pouch_insert": {
+    "category": "player",
+    "sounds": [
+      { "name": "goutroscurrency:coins_insert1", "volume": 1.0, "pitch": 1.0 },
+      { "name": "goutroscurrency:coins_insert2", "volume": 1.0, "pitch": 1.0 },
+      { "name": "goutroscurrency:coins_insert3", "volume": 1.0, "pitch": 1.0 },
+      { "name": "goutroscurrency:coins_insert4", "volume": 1.0, "pitch": 1.0 },
+      { "name": "goutroscurrency:coins_insert5", "volume": 1.0, "pitch": 1.0 }
+    ]
+  }
+}
