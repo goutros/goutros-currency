@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "create_dragons_plus:green_dye",
+      "amount": 50
+    }
+  ],
+  "results": [
+    {
+      "id": "goutroscurrency:counterfeit_cash"
+    }
+  ]
+}

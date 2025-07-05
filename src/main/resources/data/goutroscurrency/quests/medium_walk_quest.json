@@ -1,0 +1,7 @@
+{
+  "type": "walk",
+  "amount_min": 250,
+  "amount_max": 500,
+  "coin_min": 12,
+  "coin_max": 22
+}

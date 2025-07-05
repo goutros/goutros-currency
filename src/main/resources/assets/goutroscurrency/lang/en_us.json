@@ -1,0 +1,14 @@
+{
+  "item.goutroscurrency.copper_coin": "Copper Coin",
+  "item.goutroscurrency.iron_coin": "Iron Coin",
+  "item.goutroscurrency.gold_coin": "Gold Coin",
+  "item.goutroscurrency.diamond_coin": "Diamond Coin",
+  "item.goutroscurrency.netherite_coin": "Netherite Coin",
+  "block.goutroscurrency.cash_layer": "Counterfeit Cash",
+  "item.goutroscurrency.coin_pouch": "Coin Pouch",
+  "block.goutroscurrency.quest_board": "Quest Board",
+  "item.goutroscurrency.quest_board": "Quest Board",
+  "item.goutroscurrency.quest_note": "Quest Note",
+  "enchantment.goutroscurrency.coin_magnet": "Coin Magnet",
+  "enchantment.goutroscurrency.coin_magnet.desc": "Sucks in nearby coins on the ground when crouching and pouch is in main hand."
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NPN",
+    "PLP",
+    "NPN"
+  ],
+  "key": {
+    "P": { "tag": "minecraft:planks" },
+    "L": { "item": "minecraft:paper" },
+    "N": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "count": 1,
+    "id": "goutroscurrency:quest_board"
+  }
+}

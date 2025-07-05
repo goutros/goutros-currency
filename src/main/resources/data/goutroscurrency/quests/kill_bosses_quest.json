@@ -1,0 +1,13 @@
+{
+  "type": "kill",
+  "amount_min": 1,
+  "amount_max": 1,
+  "coin_min": 48,
+  "coin_max": 64,
+  "whitelist_entities": [
+    "minecraftender_dragon",
+    "minecraft:elder_guardian",
+    "minecraft:wither"
+  ],
+  "blacklist_entities": []
+}

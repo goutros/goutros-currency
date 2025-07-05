@@ -1,0 +1,15 @@
+{
+  "type": "gather",
+  "amount_min": 1,
+  "amount_max": 1,
+  "coin_min": 8,
+  "coin_max": 16,
+  "whitelist": {
+    "items": [],
+    "tags": ["c:armors"]
+  },
+  "blacklist": {
+    "items": [],
+    "tags": []
+  }
+}

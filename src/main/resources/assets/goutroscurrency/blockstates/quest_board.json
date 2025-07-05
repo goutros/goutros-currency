@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,has_quest=false": { "model": "goutroscurrency:block/quest_board" },
+    "facing=south,has_quest=false": { "model": "goutroscurrency:block/quest_board", "y": 180 },
+    "facing=west,has_quest=false":  { "model": "goutroscurrency:block/quest_board", "y": 270 },
+    "facing=east,has_quest=false":  { "model": "goutroscurrency:block/quest_board", "y": 90 },
+
+    "facing=north,has_quest=true": { "model": "goutroscurrency:block/quest_board_available" },
+    "facing=south,has_quest=true": { "model": "goutroscurrency:block/quest_board_available", "y": 180 },
+    "facing=west,has_quest=true":  { "model": "goutroscurrency:block/quest_board_available", "y": 270 },
+    "facing=east,has_quest=true":  { "model": "goutroscurrency:block/quest_board_available", "y": 90 }
+  }
+}

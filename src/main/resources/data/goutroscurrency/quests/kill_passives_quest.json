@@ -1,0 +1,16 @@
+{
+  "type": "kill",
+  "amount_min": 6,
+  "amount_max": 12,
+  "coin_min": 5,
+  "coin_max": 16,
+  "whitelist_entities": [
+    "minecraft:cow",
+    "minecraft:sheep",
+    "minecraft:chicken",
+    "minecraft:pig",
+    "minecraft:cod",
+    "minecraft:salmon"
+  ],
+  "blacklist_entities": []
+}

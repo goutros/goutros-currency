@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    ""
+  ],
+  "key": {},
+  "group": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "paper"
+    }
+  ],
+  "result": {
+    "id": "goutroscurrency:counterfeit_cash"
+  }
+}

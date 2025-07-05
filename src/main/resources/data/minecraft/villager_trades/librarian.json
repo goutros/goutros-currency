@@ -1,0 +1,24 @@
+{
+  "trades": [
+    {
+      "profession": "librarian",
+      "level": 4,
+      "trades": [
+        {
+          "type": "minecraft:trade",
+          "max_uses": 12,
+          "reward_exp": true,
+          "price": {
+            "type": "minecraft:item",
+            "item": "minecraft:emerald",
+            "count": 45
+          },
+          "result": {
+            "item": "minecraft:enchanted_book",
+            "nbt": "{StoredEnchantments:[{id:\"goutroscurrency:coin_magnet\",lvl:1s}]}"
+          }
+        }
+      ]
+    }
+  ]
+}
