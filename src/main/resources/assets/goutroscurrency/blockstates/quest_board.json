@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "goutroscurrency:block/quest_board" },
-    "facing=south": { "model": "goutroscurrency:block/quest_board", "y": 180 },
-    "facing=west":  { "model": "goutroscurrency:block/quest_board", "y": 270 },
-    "facing=east":  { "model": "goutroscurrency:block/quest_board", "y": 90 }
-  }
-}
