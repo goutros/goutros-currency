@@ -1,0 +1,15 @@
+{
+  "type": "gather",
+  "amount_min": 48,
+  "amount_max": 96,
+  "coin_min": 2,
+  "coin_max": 10,
+  "whitelist": {
+    "items": [],
+    "tags": ["c:stones"]
+  },
+  "blacklist": {
+    "items": [],
+    "tags": []
+  }
+}

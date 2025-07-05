@@ -1,0 +1,15 @@
+{
+  "type": "gather",
+  "amount_min": 24,
+  "amount_max": 48,
+  "coin_min": 4,
+  "coin_max": 12,
+  "whitelist": {
+    "items": [],
+    "tags": ["c:raw_materials"]
+  },
+  "blacklist": {
+    "items": [],
+    "tags": []
+  }
+}

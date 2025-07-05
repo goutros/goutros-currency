@@ -1,0 +1,15 @@
+{
+  "type": "gather",
+  "amount_min": 32,
+  "amount_max": 64,
+  "coin_min": 4,
+  "coin_max": 8,
+  "whitelist": {
+    "items": [],
+    "tags": ["c:ingots"]
+  },
+  "blacklist": {
+    "items": ["minecraft:netherite_ingot"],
+    "tags": []
+  }
+}

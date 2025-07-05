@@ -1,0 +1,15 @@
+{
+  "type": "gather",
+  "amount_min": 32,
+  "amount_max": 64,
+  "coin_min": 2,
+  "coin_max": 10,
+  "whitelist": {
+    "items": [],
+    "tags": ["minecraft:logs"]
+  },
+  "blacklist": {
+    "items": [],
+    "tags": []
+  }
+}

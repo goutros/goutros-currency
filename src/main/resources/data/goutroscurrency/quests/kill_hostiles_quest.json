@@ -1,0 +1,17 @@
+{
+  "type": "kill",
+  "amount_min": 3,
+  "amount_max": 6,
+  "coin_min": 5,
+  "coin_max": 16,
+  "whitelist_entities": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:blaze",
+    "minecraft:enderman",
+    "minecraft:piglin",
+    "minecraft:creeper"
+  ],
+  "blacklist_entities": []
+}
